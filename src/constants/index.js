@@ -91,8 +91,8 @@ export const PROJECTS = [
         title: "MultiCommSim",
         description: "Designed and implemented a TCP-based communication simulator enabling multiple client-server peers over a single IP and port using Dockerized containers. Authored requirements and design documents, implemented backend logic in Java, and developed a modular React + TailwindCSS UI. Delivered an Optimization Report after decentralizing routing logic into individual containers, improving scalability and integration with satellite simulators.",
         techStack: ["Java", "Docker", "React", "TailwindCSS", "Flask"],
-        demoLink: "#",
-        githubLink: "#",
+        //demoLink: "#",
+        githubLink: "https://github.com/EdizArkin/TUBITAK-UZAY-MultiCommSim",
         image: "/src/assets/images/multicommsim.jpg",
     },
     {
@@ -145,7 +145,7 @@ export const PUBLICATIONS = [
 ];
 
 export const SOCIAL_LINKS = [
-    { icon: Github, href: "https://github.com", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
+    { icon: Github, href: "https://github.com/EdizArkin", label: "GitHub" },
+    { icon: Linkedin, href: "https://linkedin.com/in/ediz-ark%C4%B1n-kobak", label: "LinkedIn" },
     { icon: Mail, href: "mailto:arkinediz@gmail.com", label: "Email" },
 ];
