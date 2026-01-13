@@ -93,7 +93,7 @@ export const PROJECTS = [
         techStack: ["Java", "Docker", "React", "TailwindCSS", "Flask"],
         //demoLink: "#",
         githubLink: "https://github.com/EdizArkin/TUBITAK-UZAY-MultiCommSim",
-        image: "/src/assets/images/multicommsim.jpg",
+        image: "/src/assets/images/MultiCommSim.png",
     },
     {
         title: "PyDBControl",
@@ -101,7 +101,7 @@ export const PROJECTS = [
         techStack: ["Python", "PostgreSQL"],
         demoLink: "#",
         githubLink: "#",
-        image: "/src/assets/images/pydbcontrol.jpg",
+        image: "/src/assets/images/PyDBControl.png",
     },
     {
         title: "OmnIDE",
@@ -109,7 +109,7 @@ export const PROJECTS = [
         techStack: ["React (TS)", "FastAPI", "Electron", "SQLite", "TailwindCSS"],
         demoLink: "#",
         githubLink: "#",
-        image: "/src/assets/images/omnide.jpg",
+        image: "/src/assets/images/Omnide.png",
     },
     {
         title: "Class Assignment System",
@@ -117,7 +117,7 @@ export const PROJECTS = [
         techStack: ["SQL", "SQLite", "Java", "JavaFX"],
         demoLink: "#",
         githubLink: "#",
-        image: "/src/assets/images/class_assignment.jpg",
+        image: "/src/assets/images/Class_assignment.jpg",
     },
     {
         title: "BOOKSHOOK",
@@ -125,7 +125,7 @@ export const PROJECTS = [
         techStack: ["Java", "JavaFX"],
         demoLink: "#",
         githubLink: "#",
-        image: "/src/assets/images/bookshook.jpg",
+        image: "/src/assets/images/bookshook.png",
     },
 ];
 
